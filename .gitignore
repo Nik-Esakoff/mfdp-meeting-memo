@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Homework 04 private/raw data
+homework_04/data/*
+homework_04/outputs/*
+homework_04/results/*
+homework_04/reports/generated/*
+
+# Keep empty folders
+!homework_04/data/.gitkeep
+!homework_04/outputs/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
